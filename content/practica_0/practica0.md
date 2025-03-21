@@ -1,8 +1,7 @@
 ---
 title: "Práctica 0"
 date: "2025-03-21"
-summary: "Resumen breve sobre lo que incluye la Práctica 0."
-description: "Descripción más detallada de la Práctica 0."
+summary: "La práctica aborda el uso de Markdown como herramienta para formatear texto y su aplicación en la documentación técnica. Explica su sintaxis, incluyendo encabezados, listas, enlaces, imágenes y tablas. Además, introduce Git y GitHub, detallando su funcionamiento, comandos esenciales y la gestión de repositorios. Finalmente, se exploran GitHub Actions y Hugo para la automatización del despliegue de sitios web estáticos en GitHub Pages."
 ---
 
 
