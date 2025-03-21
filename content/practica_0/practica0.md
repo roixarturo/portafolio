@@ -1,8 +1,9 @@
-+++
-date = '2025-03-21T10:11:40-07:00'
-draft = false
-title = 'Práctica 0'
-+++
+---
+title: "Uso de repositorios"
+date: "2025-03-14"
+description: "Este es el texto introductorio que quiero mostrar."
+---
+
 # Universidad Autónoma de Baja California  
 ## Facultad de Ingeniería, Arquitectura y Diseño  
 
