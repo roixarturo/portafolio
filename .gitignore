@@ -8,3 +8,6 @@ library.txt
 members.txt
 library.json
 members.json
+archetypes/
+docs/
+resources/
