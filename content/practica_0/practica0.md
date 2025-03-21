@@ -1,8 +1,10 @@
 ---
-title: "Uso de repositorios"
-date: "2025-03-14"
-description: "Este es el texto introductorio que quiero mostrar."
+title: "Práctica 0"
+date: "2025-03-21"
+summary: "Resumen breve sobre lo que incluye la Práctica 0."
+description: "Descripción más detallada de la Práctica 0."
 ---
+
 
 # Universidad Autónoma de Baja California  
 ## Facultad de Ingeniería, Arquitectura y Diseño  
